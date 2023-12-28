@@ -19,9 +19,13 @@ Ksenia Revak, Anna Tkach
 3.1 Выделение эксплицитных аспектов: 
 
 *Full match precision: 0.8065359477124183*
+
 *Full match recall: 0.5291595197255574*
+
 *Partial match ratio in pred: 0.869281045751634*
+
 *Full category accuracy: 0.726797385620915*
+
 *Partial category accuracy: 0.8588235294117647*
 
 Можно заметить, что у нас получилась очень низкая полнота. Это из-за того, что мы учитывали только эксплицитные аспекты из одного токена. 
@@ -29,6 +33,7 @@ Ksenia Revak, Anna Tkach
 3.2  Определение тональности эксплицитных аспектов: 
 
 *Mention sentiment accuracy: 0.7112561174551386*
+
 *Mention sentiment accuracy: 0.5897435897435898*
 
 3.3 Определение тональности отзыва по аспектным категориям 
